@@ -1,0 +1,12 @@
+{
+  "name": "cartonization-lambda",
+  "version": "1.0.0",
+  "description": "Cartonization Script to create a Jetpack-Paccurate integration",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Kramer",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
